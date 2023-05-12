@@ -10,7 +10,7 @@ The task is to build a predictive model that can accurately estimate the yield o
 
 ## Data Analysis
 
-To prepare the data for modeling, I began by performing exploratory data analysis to get an idea of the distribution of the various features and their relationships with the target variable. I binned some continuous features into categories and encoding these features into numerical features. I also dropped features with high collinearity to reduce the number of features and prevent overfitting.
+To prepare the data for modeling, I began by performing exploratory data analysis to get an idea of the distribution of the various features and their relationships with the target variable. I binned some continuous features into categories and encoded these features into numerical features. I also dropped features with high collinearity to reduce the number of features and prevent overfitting.
 
 ## Modelling
 
